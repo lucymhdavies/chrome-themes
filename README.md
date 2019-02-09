@@ -6,6 +6,8 @@ I may write a CI pipeline to generate crx files from these at some point. For no
 
 ## SBG
 
+![SBG Screenshot](https://github.com/lucymhdavies/chrome-themes/blob/master/screenshots/sbg.jpg "SBG Screenshot")
+
 Based on the [SB&G](https://www.skybetcareers.com/) gradient.
 
 ## SU_Twitch
